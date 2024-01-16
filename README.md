@@ -1,1 +1,2 @@
-#Tugas Uas
+# Tugas Uas
+* semua coddingan aada di file readme.md
