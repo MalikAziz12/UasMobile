@@ -1,7 +1,7 @@
 package com.example.tugassplash;
 
 import android.annotation.SuppressLint;
-import android.support.v4.app.RemoteActionCompatParcelizer;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -9,11 +9,8 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-import android.graphics.Color;
 
 import androidx.appcompat.app.AppCompatActivity;
-
-import com.example.tugassplash.R;
 
 public class countactivity extends AppCompatActivity {
     public int count = 0;
